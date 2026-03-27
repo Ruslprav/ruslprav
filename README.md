@@ -1,4 +1,13 @@
 # Привет! Я Руслан Петров 👋
+### 🛠 Стек технологий:
+![Python](https://img.shields.io)
+![Pandas](https://img.shields.io)
+![SQL](https://img.shields.io)
+![Git](https://img.shields.io)
+![VS Code](https://img.shields.io)
+![Postman](https://img.shields.io)
+![English](https://img.shields.io)
+
 **Data Analyst | Data Quality Engineer | Finance Background**
 
 Я специализируюсь на анализе данных и обеспечении их качества (Data Quality) в финтехе и энтерпрайз-системах. Сочетаю опыт в разработке (Школа 21, Иннополис) и магистерскую степень в области Финансов.
