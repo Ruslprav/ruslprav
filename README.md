@@ -1,12 +1,14 @@
 # Привет! Я Руслан Петров 👋
 ### 🛠 Стек технологий:
-![Python](https://img.shields.io)
-![Pandas](https://img.shields.io)
-![SQL](https://img.shields.io)
-![Git](https://img.shields.io)
-![VS Code](https://img.shields.io)
-![Postman](https://img.shields.io)
-![English](https://img.shields.io)
+<p align="left">
+  <img src="https://img.shields.io" alt="Python" />
+  <img src="https://img.shields.io" alt="Pandas" />
+  <img src="https://img.shields.io" alt="SQL" />
+  <img src="https://img.shields.io" alt="Git" />
+  <img src="https://img.shields.io" alt="VS Code" />
+  <img src="https://img.shields.io" alt="Postman" />
+</p>
+
 
 **Data Analyst | Data Quality Engineer | Finance Background**
 
