@@ -1,16 +1,31 @@
-### Hi there 👋
+# Привет! Я Руслан Петров 👋
+**Data Analyst | Data Quality Engineer | Finance Background**
 
-<!--
-**Ruslprav/ruslprav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Я специализируюсь на анализе данных и обеспечении их качества (Data Quality) в финтехе и энтерпрайз-системах. Сочетаю опыт в разработке (Школа 21, Иннополис) и магистерскую степень в области Финансов.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Мои ключевые проекты:
+
+#### 1. [Fintech Data Quality Audit System](https://github.com)
+*   **Стек:** Python (Pandas), SQL.
+*   **Суть:** Автоматизированный фреймворк для поиска аномалий, дублей и логических ошибок в банковских транзакциях. 
+*   **Результат:** Рассчитывает индекс качества данных (DQ Score) и формирует отчеты для очистки данных.
+
+#### 2. [Calories Tracker Analytics](https://github.com)
+*   **Стек:** JavaScript, REST API, SQL.
+*   **Суть:** Продуктовая аналитика сервиса и валидация данных парсинга.
+
+---
+
+### 💻 Стек технологий:
+*   **Языки:** Python (Pandas, NumPy), SQL (PostgreSQL), JavaScript (Base).
+*   **Инструменты:** Git, VS Code, Postman, Chrome DevTools.
+*   **Аналитика:** Статистический анализ, проверка гипотез, визуализация данных.
+
+---
+
+### 📫 Как со мной связаться:
+*   **Telegram:** [@hkapov](https://t.me)
+*   **Email:** hkapovshik@mail.ru
+*   **Локация:** Казань / Удаленно
