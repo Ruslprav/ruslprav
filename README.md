@@ -1,14 +1,8 @@
 # Привет! Я Руслан Петров 👋
 ### 🛠 Стек технологий:
-<p align="left">
-  <img src="https://img.shields.io" alt="Python" />
-  <img src="https://img.shields.io" alt="Pandas" />
-  <img src="https://img.shields.io" alt="SQL" />
-  <img src="https://img.shields.io" alt="Git" />
-  <img src="https://img.shields.io" alt="VS Code" />
-  <img src="https://img.shields.io" alt="Postman" />
-</p>
-
+🐍 Python (Pandas, NumPy)
+📊 SQL (PostgreSQL, Joins, Window Functions)
+🛠 Git, VS Code, Postman
 
 **Data Analyst | Data Quality Engineer | Finance Background**
 
