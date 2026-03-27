@@ -1,14 +1,13 @@
 # Привет! Я Руслан Петров 👋
-### 🛠 Стек технологий:
-🐍 Python (Pandas, NumPy)
-📊 SQL (PostgreSQL, Joins, Window Functions)
-🛠 Git, VS Code, Postman
-
 **Data Analyst | Data Quality Engineer | Finance Background**
 
 Я специализируюсь на анализе данных и обеспечении их качества (Data Quality) в финтехе и энтерпрайз-системах. Сочетаю опыт в разработке (Школа 21, Иннополис) и магистерскую степень в области Финансов.
 
 ---
+### 🛠 Стек технологий:
+🐍 Python (Pandas, NumPy)
+📊 SQL (PostgreSQL, Joins, Window Functions)
+🛠 Git, VS Code, Postman
 
 ### 🛠 Мои ключевые проекты:
 
