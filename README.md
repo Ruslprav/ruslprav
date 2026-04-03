@@ -1,31 +1,33 @@
-# Привет! Я Руслан Петров 👋
-**Data Analyst | Data Quality Engineer | Finance Background**
+# Привет! Я Руслан 👋
+**Junior Security Engineer | System & Network Security enthusiast**
 
-Я специализируюсь на анализе данных и обеспечении их качества (Data Quality) в финтехе и энтерпрайз-системах. Сочетаю опыт в разработке (Школа 21, Иннополис) и магистерскую степень в области Финансов.
+Я специализируюсь на защите ИТ-инфраструктуры, администрировании Linux и автоматизации задач ИБ на Python. Сочетаю инженерный бэкграунд (Газпромнефть) и системную базу (Школа 21, Иннополис).
 
 ---
 
-### 🛠 Мои ключевые проекты:
+### 🛡️ Мои ключевые проекты по безопасности:
 
-#### 1. [Fintech Data Quality Audit System](https://github.com)
-*   **Стек:** Python (Pandas), SQL.
-*   **Суть:** Автоматизированный фреймворк для поиска аномалий, дублей и логических ошибок в банковских транзакциях. 
-*   **Результат:** Рассчитывает индекс качества данных (DQ Score) и формирует отчеты для очистки данных.
+#### 1. [Home-Lab Infrastructure & Hardening](https://github.com)
+*   **Суть:** Развертывание защищенного стенда (Ubuntu/Windows). Настройка UFW, SSH (RSA-auth) и минимизация векторов атак.
+*   **Результат:** Сформированы отчеты по аудиту систем в папке `/docs`.
 
-#### 2. [Calories Tracker Analytics](https://github.com)
-*   **Стек:** JavaScript, REST API, SQL.
-*   **Суть:** Продуктовая аналитика сервиса и валидация данных парсинга.
+#### 2. [Security Automation Toolbox (Python)](https://github.com/tree/main/scripts)
+*   **Advanced Scanner:** Модульное приложение (ООП) для аудита портов и сбора системных метрик.
+*   **Web-Audit:** Сканер директорий (.env, .git) для поиска утечек конфигураций.
+*   **Log-Monitor:** Скрипт для детекции Brute-force атак в реальном времени.
 
 ---
 
 ### 💻 Стек технологий:
-*   **Языки:** Python (Pandas, NumPy), SQL (PostgreSQL), JavaScript (Base).
-*   **Инструменты:** Git, VS Code, Postman, Chrome DevTools.
-*   **Аналитика:** Статистический анализ, проверка гипотез, визуализация данных.
+*   **Security:** System Hardening (Linux/Windows), Network Scanning, Log Analysis.
+*   **Languages:** Python (Sockets, Requests), C (System programming), SQL.
+*   **Tools:** Git (CLI), VS Code, VMware/VirtualBox, Nmap, Postman.
+*   **Networking:** TCP/IP, OSI, HTTP/HTTPS, DNS.
 
 ---
 
 ### 📫 Как со мной связаться:
 *   **Telegram:** [@hkapov](https://t.me)
-*   **Email:** hkapovshik@mail.ru
-*   **Локация:** Казань / Удаленно
+*   **Локация:** Казань
+*   **Статус:** Готов к стажировке в Innostage (20+ часов в неделю)
+
